@@ -1,19 +1,18 @@
-# inspiretech
+# **Inspira Tech: Seu Mural de Inspiração**
 
-## Project setup
-```
-npm install
-```
+### **Descrição:**
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+**Inspira Tech** é uma plataforma online dedicada a conectar e inspirar mulheres ao redor do mundo. Criamos um espaço seguro e positivo onde as usuárias podem compartilhar mensagens motivacionais, dicas valiosas e histórias que encorajam e empoderam. Nosso objetivo é fomentar uma comunidade de apoio mútuo e crescimento pessoal, fortalecendo a presença feminina na tecnologia.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### **Funcionalidades:**
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- **Mural de Avisos:** Um espaço colaborativo onde as usuárias podem postar mensagens de apoio e inspiração, ajudando a criar uma rede de suporte entre mulheres.
+
+### **Tecnologias Utilizadas:**
+
+- **Vue.js:** Um framework JavaScript progressivo para a construção de interfaces de usuário dinâmicas e reativas.
+- **HTML & CSS:** Linguagens de marcação e estilo utilizadas para estruturar e estilizar a interface do usuário.
+
+---
+
+<p align="center">2024 - Desenvolvido por Maria de Fátima Nunes Alves</p>
