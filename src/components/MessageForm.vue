@@ -1,6 +1,9 @@
 <template>
   <div class="message-form">
-    <input v-model="newMessage" placeholder="Digite aqui uma mensagem de inspiração..." />
+    <input
+      v-model="newMessage"
+      placeholder="Digite aqui uma mensagem de inspiração..."
+    />
     <div>
       <button @click="submitMessage">Enviar</button>
     </div>

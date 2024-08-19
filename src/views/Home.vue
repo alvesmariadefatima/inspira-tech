@@ -53,6 +53,7 @@ export default {
 .background {
   background-color: #FFC0CB; /* Cor de fundo rosa claro */
   padding: 20px; /* Adiciona algum espaçamento interno */
+  min-width: 100vw;
   min-height: 100vh; /* Garante que o fundo ocupe toda a altura da tela */
   display: flex; /* Ativa o modo flexbox */
   flex-direction: column; /* Alinha os itens verticalmente */
